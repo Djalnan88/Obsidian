@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "fc1d900901e88ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "180eaf3191a43648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41bde6d62b03a385",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "역기획 슽타디/게임.canvas",
+                "viewState": {
+                  "x": -1113.4111369940788,
+                  "y": -1338.899633612093,
+                  "zoom": -0.5304973746099475
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a869b862e38c502",
+    "type": "split",
+    "children": [
+      {
+        "id": "44901917bccc5eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700441f6fde804f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c846a49d12c44de3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5a1eef9cea83807",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fbb2c50f7083d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bdb3e5ca7e50ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecb7f4b96bba8373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "역기획 슽타디/게임.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "010897ddc9d14774",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "역기획 슽타디/게임.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce09433a031adc9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f0dd26d1710309a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "역기획 슽타디/게임.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "41bde6d62b03a385",
+  "lastOpenFiles": []
+}
