@@ -22,7 +22,8 @@
 		{"id":"7bdafc03003dec5a","type":"text","text":"몬스터","x":-1045,"y":-1475,"width":250,"height":60},
 		{"id":"5a7014cd290fef67","type":"text","text":"스탯","x":-359,"y":-1716,"width":250,"height":60},
 		{"id":"657bb6093152d715","type":"text","text":"상태이상","x":-360,"y":-1640,"width":250,"height":60},
-		{"id":"f40f76fef31480ee","type":"text","text":"캐릭터","x":-359,"y":-1796,"width":250,"height":60}
+		{"id":"f40f76fef31480ee","type":"text","text":"캐릭터","x":-359,"y":-1796,"width":250,"height":60},
+		{"id":"06dae29f4a5c5fa6","x":-640,"y":-740,"width":250,"height":60,"type":"text","text":"투척"}
 	],
 	"edges":[
 		{"id":"dd79b8677cc37c24","fromNode":"7a99d86e9f2a6417","fromSide":"right","toNode":"babe8c0ffc0f88ec","toSide":"left"},
@@ -46,6 +47,7 @@
 		{"id":"ade9a323bf051b37","fromNode":"40226de62a789cab","fromSide":"right","toNode":"5185039f252bb26e","toSide":"left"},
 		{"id":"9c6af9ce433811c9","fromNode":"40226de62a789cab","fromSide":"right","toNode":"0afd414df02d27ca","toSide":"left"},
 		{"id":"e5d426f3fc60829d","fromNode":"7a99d86e9f2a6417","fromSide":"bottom","toNode":"d8f5e527565b47b1","toSide":"top"},
-		{"id":"fe2de95d63eda73c","fromNode":"7a99d86e9f2a6417","fromSide":"top","toNode":"be1ab05be5b86ffb","toSide":"bottom"}
+		{"id":"fe2de95d63eda73c","fromNode":"7a99d86e9f2a6417","fromSide":"top","toNode":"be1ab05be5b86ffb","toSide":"bottom"},
+		{"id":"b193ab5841f8bd31","fromNode":"40226de62a789cab","fromSide":"right","toNode":"06dae29f4a5c5fa6","toSide":"left"}
 	]
 }
