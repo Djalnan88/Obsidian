@@ -1,18 +1,25 @@
 {
   "main": {
-    "id": "fc1d900901e88ab8",
+    "id": "2a37660280a28ab7",
     "type": "split",
     "children": [
       {
-        "id": "b39efbc0123120fa",
+        "id": "24422304f596a249",
         "type": "tabs",
         "children": [
           {
-            "id": "7137578944676bec",
+            "id": "f89381bb4b6b7211",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "게임.canvas",
+                "viewState": {
+                  "x": -904.5,
+                  "y": -1410,
+                  "zoom": -0.8201626983582243
+                }
+              }
             }
           }
         ]
@@ -21,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a869b862e38c502",
+    "id": "f2afcdcdf6e71d7a",
     "type": "split",
     "children": [
       {
-        "id": "44901917bccc5eea",
+        "id": "d1195ef07c115106",
         "type": "tabs",
         "children": [
           {
-            "id": "700441f6fde804f5",
+            "id": "d2f1f58c6215b234",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +46,7 @@
             }
           },
           {
-            "id": "c846a49d12c44de3",
+            "id": "d2a061677b3f13c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +61,7 @@
             }
           },
           {
-            "id": "b5a1eef9cea83807",
+            "id": "3ccad8c62168e20c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "3fbb2c50f7083d55",
+    "id": "dd714264b064c370",
     "type": "split",
     "children": [
       {
-        "id": "5bdb3e5ca7e50ef3",
+        "id": "0136220eec6b28be",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb7f4b96bba8373",
+            "id": "1280b9b413934d04",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "게임.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +100,19 @@
             }
           },
           {
-            "id": "010897ddc9d14774",
+            "id": "2ce188d0cadd55ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "게임.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ce09433a031adc9d",
+            "id": "b735d5cff8ee931d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +123,13 @@
             }
           },
           {
-            "id": "6f0dd26d1710309a",
+            "id": "e657b767fb77891e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "게임.canvas"
+              }
             }
           }
         ]
@@ -138,6 +149,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7137578944676bec",
-  "lastOpenFiles": []
+  "active": "f89381bb4b6b7211",
+  "lastOpenFiles": [
+    "2023-10-26.md",
+    "게임.canvas",
+    "지형/물건.md",
+    "지형/특수방.md",
+    "지형/지형.canvas",
+    "지형/지형.md",
+    "지형/방.md",
+    "지형/방 생성 규칙.md",
+    "플레이어/전사.md",
+    "이 게임을 하는 이유.md",
+    "게임 개요.md",
+    "그래픽.md",
+    "무제 파일 1.md",
+    "지형/물건/무덤.md",
+    "목적.md",
+    "그래픽/무제 파일.canvas",
+    "그래픽",
+    "지형/특수방/보스층.md",
+    "지형/특수방/상점.md",
+    "지형/물건/해골.md",
+    "장자.md",
+    "OIG.md",
+    "OIG 1.jfif",
+    "지형/물건/함정.md",
+    "OIG.jfif",
+    "시스템",
+    "지형/무제 파일.md",
+    "지형/무제 파일 2.md",
+    "지형/특수방/감시탑 방.md",
+    "지형/물건",
+    "지형/특수방",
+    "아이템",
+    "몬스터",
+    "플레이어",
+    "지형/물건/길게 자란 풀.md",
+    "지형",
+    "지형/무제 파일 1.md",
+    "지형/특수방/독가스 방.md"
+  ]
 }
