@@ -131,13 +131,21 @@
                 "file": "게임.canvas"
               }
             }
+          },
+          {
+            "id": "b30e06c60bfbdd4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
